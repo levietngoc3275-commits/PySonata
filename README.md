@@ -37,8 +37,6 @@ PySonata combines advanced music capabilities with a simplified, user-friendly i
 
 Extract the ZIP and run `PySonata.exe`.
 
-[View all releases](https://github.com/levietngoc3275-commits/PySonata/releases) · [Proprietary license / EULA](LICENSE.md)
-
 ---
 
 <p align="center"><sub>PySonata · Advanced music features, simplified.</sub></p>
