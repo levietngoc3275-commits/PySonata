@@ -2,9 +2,9 @@
 
 # PySonata
 
-**A focused music experience for Windows.**
+**Advanced music features. Simplified interface.**
 
-A compact desktop music player built around a clear library view, persistent playback controls, and a dedicated lyrics workspace.
+A friendly, easy-to-use Windows music app that brings powerful music tools into a clean, approachable experience.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-5661a8?style=flat-square)
 ![Showcase](https://img.shields.io/badge/showcase-v3.9.95-9b7aaa?style=flat-square)
@@ -14,46 +14,35 @@ A compact desktop music player built around a clear library view, persistent pla
 
 ---
 
-## Screenshots
-
-### Music library
+## One clear view of your music
 
 <p align="center">
-  <img src="assets/pysonata-library.jpg" alt="PySonata music library with album artwork, track list, metadata and playback controls" width="100%">
+  <img src="assets/pysonata-library.jpg" alt="PySonata's streamlined music library with album artwork, track list, metadata and playback controls" width="100%">
 </p>
 
-### Lyrics workspace
+## Powerful features, made approachable
 
-<p align="center">
-  <img src="assets/pysonata-lyrics.jpg" alt="PySonata lyrics displayed alongside the music library and playback controls" width="100%">
-</p>
+PySonata combines advanced music capabilities with a simplified, user-friendly interface. The goal is to make everyday listening and music management feel clear and accessible, without making the app feel complicated.
 
-## Highlights
+- **Music library & playback** — browse your collection and reach essential playback controls easily.
+- **Lyrics** — view lyrics alongside your music.
+- **Metadata & cover art** — work with track information and artwork.
+- **Audio conversion** — convert audio and handle batch-oriented workflows.
+- **Personalization** — choose from available themes and language options.
+- **Online media workflows** — access supported online extraction, download and playback features.
 
-| Feature | Overview |
-|---|---|
-| **Music library** | Search and browse a music collection in a compact, readable desktop layout. |
-| **Playback** | Persistent transport controls, progress seeking, volume, shuffle and repeat. |
-| **Lyrics workspace** | Keep lyrics visible alongside the current track and library. |
-| **Metadata & artwork** | View and manage track metadata and embedded cover art. |
-| **Audio conversion** | Convert common audio formats, including batch-oriented workflows. |
-| **Themes & languages** | Multiple visual themes and a multilingual interface. |
-| **Online media workflows** | Online extraction, download and playback features. |
+## Project details
 
-## About PySonata
-
-PySonata brings everyday listening and music-library tasks together in a Windows desktop application. Its interface emphasizes readable track lists, visible playback controls, and a dedicated space for lyrics.
-
-- **Showcase version:** 3.9.95
 - **Platform:** Windows x64
+- **Showcase version:** 3.9.95
 - **Software type:** Proprietary desktop application
 
 ## Source and distribution
 
-This repository is a **project showcase** containing an overview and selected interface screenshots. It does not distribute PySonata's application source code, build scripts, executable files, or installers.
+This repository is a **project showcase** containing product information and one selected interface screenshot. It does not distribute PySonata's application source code, build scripts, executable files, or installers.
 
 PySonata is proprietary software. This showcase does not grant permission to copy, modify, or redistribute the application.
 
 ---
 
-<p align="center"><sub>PySonata · Windows music player and library</sub></p>
+<p align="center"><sub>PySonata · Advanced music features, simplified.</sub></p>
