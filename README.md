@@ -22,14 +22,16 @@ A friendly, easy-to-use Windows music app that brings powerful music tools into 
 
 ## Powerful features, made approachable
 
-PySonata combines advanced music capabilities with a simplified, user-friendly interface.
+Advanced music tools, kept simple:
 
-- **Music library & playback** — browse your collection and access playback controls.
-- **Lyrics** — view lyrics alongside your music.
-- **Metadata & cover art** — manage track information and artwork.
-- **Audio conversion** — convert audio and handle batch workflows.
-- **Personalization** — choose from available themes and language options.
-- **Online media workflows** — use supported online extraction, download and playback features.
+- **Lyrics search** — search online lyrics sources and display time-synced lyrics when available.
+- **Audio spectrum analysis** — inspect sound with a dedicated spectrogram / FFT view.
+- **10-band equalizer** — shape playback to your listening preference.
+- **Music library & playback** — manage your collection, playlists and playback queue.
+- **Audio conversion** — batch-friendly conversion across common formats.
+- **Metadata & cover art** — edit and preserve track tags, lyrics and artwork.
+- **Online media** — supported online search, playback and audio downloads.
+- **Mini Player & personalization** — compact playback controls, system-tray support, themes and language options.
 
 ## Download
 
