@@ -7,8 +7,8 @@
 A friendly, easy-to-use Windows music app that brings powerful music tools into a clean, approachable experience.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-5661a8?style=flat-square)
-![Showcase](https://img.shields.io/badge/showcase-v3.9.95-9b7aaa?style=flat-square)
-![Source](https://img.shields.io/badge/source-proprietary-444444?style=flat-square)
+![Version](https://img.shields.io/badge/version-3.9.95-9b7aaa?style=flat-square)
+![License](https://img.shields.io/badge/license-proprietary-444444?style=flat-square)
 
 </div>
 
@@ -22,28 +22,22 @@ A friendly, easy-to-use Windows music app that brings powerful music tools into 
 
 ## Powerful features, made approachable
 
-PySonata combines advanced music capabilities with a simplified, user-friendly interface. The goal is to make everyday listening and music management feel clear and accessible, without making the app feel complicated.
+PySonata combines advanced music capabilities with a simplified, user-friendly interface.
 
-- **Music library & playback** — browse your collection and reach essential playback controls easily.
+- **Music library & playback** — browse your collection and access playback controls.
 - **Lyrics** — view lyrics alongside your music.
-- **Metadata & cover art** — work with track information and artwork.
-- **Audio conversion** — convert audio and handle batch-oriented workflows.
+- **Metadata & cover art** — manage track information and artwork.
+- **Audio conversion** — convert audio and handle batch workflows.
 - **Personalization** — choose from available themes and language options.
-- **Online media workflows** — access supported online extraction, download and playback features.
+- **Online media workflows** — use supported online extraction, download and playback features.
 
-## Project details
+## Download PySonata 3.9.95
 
-- **Platform:** Windows x64
-- **Showcase version:** 3.9.95
-- **Software type:** Proprietary desktop application
+**[⬇ Download for Windows x64 (ZIP)](https://github.com/levietngoc3275-commits/PySonata/releases/download/v3.9.95/PySonata-v3.9.95-Windows-x64.zip)**
 
-## Source and distribution
+Extract the ZIP and run `PySonata.exe`.
 
-This repository is a **project showcase** containing product information and one selected interface screenshot. It does not distribute PySonata's application source code, build scripts, executable files, or installers.
-
-PySonata is proprietary software. This showcase does not grant permission to copy, modify, or redistribute the application.
-
-The application's proprietary license and end-user terms are published in [LICENSE.md](LICENSE.md). Third-party components remain subject to their own licenses and notices; the PySonata license does not override those terms.
+[View release notes and additional downloads](https://github.com/levietngoc3275-commits/PySonata/releases/tag/v3.9.95) · [Proprietary license / EULA](LICENSE.md)
 
 ---
 
