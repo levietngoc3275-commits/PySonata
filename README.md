@@ -31,13 +31,13 @@ PySonata combines advanced music capabilities with a simplified, user-friendly i
 - **Personalization** — choose from available themes and language options.
 - **Online media workflows** — use supported online extraction, download and playback features.
 
-## Download PySonata 3.9.95
+## Download
 
-**[⬇ Download for Windows x64 (ZIP)](https://github.com/levietngoc3275-commits/PySonata/releases/download/v3.9.95/PySonata-v3.9.95-Windows-x64.zip)**
+**[⬇ Download the latest version for Windows x64 (ZIP)](https://github.com/levietngoc3275-commits/PySonata/releases/latest/download/PySonata-Windows-x64.zip)**
 
 Extract the ZIP and run `PySonata.exe`.
 
-[View release notes and additional downloads](https://github.com/levietngoc3275-commits/PySonata/releases/tag/v3.9.95) · [Proprietary license / EULA](LICENSE.md)
+[View all releases](https://github.com/levietngoc3275-commits/PySonata/releases) · [Proprietary license / EULA](LICENSE.md)
 
 ---
 
