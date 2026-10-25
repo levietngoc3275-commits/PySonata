@@ -43,6 +43,8 @@ This repository is a **project showcase** containing product information and one
 
 PySonata is proprietary software. This showcase does not grant permission to copy, modify, or redistribute the application.
 
+The application's proprietary license and end-user terms are published in [LICENSE.md](LICENSE.md). Third-party components remain subject to their own licenses and notices; the PySonata license does not override those terms.
+
 ---
 
 <p align="center"><sub>PySonata · Advanced music features, simplified.</sub></p>
