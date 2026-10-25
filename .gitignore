@@ -1,0 +1,9 @@
+# This repository is an information-only showcase.
+# Keep the public tree limited to this README and the two approved screenshots.
+*
+!/.gitignore
+!/README.md
+!/assets/
+!/assets/*
+!/assets/pysonata-library.jpg
+!/assets/pysonata-lyrics.jpg
