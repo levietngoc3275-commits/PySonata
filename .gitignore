@@ -1,6 +1,7 @@
-# Information-only showcase: keep only the README and approved screenshot.
+# Information-only showcase: keep only product documentation and the approved screenshot.
 *
 !/.gitignore
 !/README.md
+!/LICENSE.md
 !/assets/
 !/assets/pysonata-library.jpg
