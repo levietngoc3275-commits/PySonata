@@ -39,10 +39,6 @@ Advanced music tools, kept simple:
 
 Extract the ZIP and run `PySonata.exe`.
 
-## License and legal notices
-
-PySonata is proprietary freeware for non-commercial use under the [PySonata Proprietary Software License and EULA](LICENSE.md). Third-party libraries, tools, codecs, runtimes, and other bundled components remain governed by their own licenses. Keep and consult the `THIRD_PARTY_NOTICES.txt` and `licenses/` materials supplied with each release. Nothing in the PySonata EULA limits rights granted by an applicable third-party license.
-
 ---
 
 <p align="center"><sub>PySonata · Advanced music features, simplified.</sub></p>
