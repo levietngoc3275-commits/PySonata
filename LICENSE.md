@@ -43,9 +43,9 @@ This EULA applies to official PySonata copies offered through the project reposi
 4.1. You may share or redistribute an unmodified official PySonata installation package for non-commercial purposes, free of charge, provided that you:
 
 - keep the package complete and unaltered;
-- retain this EULA and all copyright, license, and third-party notices supplied with the package;
+- retain all copyright, license, and third-party notices supplied with the package, and retain this EULA if it is distributed with the package;
 - identify Ngọc Dolphin (LE VIET NGOC) as the copyright holder of the original PySonata materials;
-- provide a link to the official project page: https://github.com/levietngoc3275-commits/PySonata; and
+- provide a link to the official project page, where the applicable EULA can be accessed: https://github.com/levietngoc3275-commits/PySonata; and
 - do not suggest that your mirror, website, or distribution channel is the official project or is endorsed by the copyright holder.
 
 4.2. You must not represent an altered, repackaged, or third-party-built copy as an unmodified official release. A person who hosts or redistributes a copy must ensure that their own distribution activity complies with applicable law and the terms that govern every included component.
